@@ -1,0 +1,32 @@
+---
+BIP: '0002'
+Title: Add BDUS to XUSD Collateral
+Status: Approved
+Created: 2022-03-23
+---
+
+# Introduction:
+Blindex is building the first-of-its-kind multicurrency fractional-algorithmic stablecoin platform. Inspired by the cutting-edge work done by Frax, Blindex stablecoins are partially backed by a combination of crypto-collateral and an algorithmic stabilization mechanism.
+
+Adding BDUS to XUSD contract will help diversify BabelFish’s basket collateral on RSK, and add more flexibility on the RSK ecosystem by providing the ability to move between different currency pegs globally.
+
+Interoperability between the stablecoins in the ecosystem is necessary for its development, and more stablecoin pegs are expected to be added to the ecosystem with Blindex’s multi-currency mechanism. This will increase the universe of possibilities for trading, staking, and investing with and between XUSD and other stablecoins.
+
+Blindex recently opened a new BDUS-XUSD pool which incentivizes its stakers with BDX (the native token of the Blindex platform), and allows Swaps between XUSD and the other Blindex tokens, thereby adding more venues for XUSD to be traded at.
+
+In the near future, Blindex may enhance the collaboration with BabelFish and offer FISH rewards to XUSD LPs.
+
+# Reasoning:
+The Blindex team is focused on building a decentralized protocol from the start, even its cloud provider, StackOS, is a decentralized cloud provider. Decentralization is a big part of the reasoning behind launching first on RSK and using RBTC & ETHs as collateral. In addition to the focus on decentralization, the other priorities are creating a scalable multicurrency system and high capital efficiency.
+
+Choosing BabelFish as its first partnership on RSK emphasizes the importance of XUSD in the ecosystem.
+
+# Detailed info:
+BIP-0002, if passed, will add BDUS into XUSD’s accepted collateral on RSK. Currently, the accepted collateral on RSK consists of rUSDT, rUSDC, rDAI, rDOC, and DOC. It would benefit BabelFish to further diversify away from its reliance on centralized stablecoins.
+
+Blindex soft-launched the product this past February and, even though we are still in beta, the protocol already has a TVL of $2mn - of which, BDUS/XUSD makes up ~10%. By accepting XUSD as collateral, the BabelFish and RSK communities will become more familiar with Blindex’s offering and likely increase XUSD’s percentage of the TVL in Blindex.
+
+All the metrics tracking BDUS’s stability are publicly visible in the website [https://blindex.io/]. Additionally, the protocol has successfully been audited, and you can find a detailed description of the Blindex protocol in the gitbook [https://docs.blindex.io/].
+
+## Link to forum: 
+https://forum.babelfish.money/t/bip-0002-add-bdus-to-xusd-collateral/232
